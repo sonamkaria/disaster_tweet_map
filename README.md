@@ -3,7 +3,7 @@
 #### Authors
 Sophia Alice: [Linkedin](https://www.linkedin.com/in/sophia-alice/)           
 Dae Han: [Linkedin](https://www.linkedin.com/in/daehuihan/)             
-Sonam Thakkar: [Linkedin](https://www.linkedin.com/in/sonamthakkar5/)
+Sonam Karia: [Linkedin](https://www.linkedin.com/in/sonamthakkar5/)
 
 
 ## Problem Statement
